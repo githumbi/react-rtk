@@ -3,7 +3,7 @@ import { ordered as cakeOrdered } from "../cake/cakeSlice";
 
 
 const initialState = {
-  numOfIcecreams: 10,
+  numOfIcecreams: 20,
 };
 
 const icecreamSlice = createSlice({
